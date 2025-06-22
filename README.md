@@ -20,6 +20,7 @@ Bienvenido a esta biblioteca personal de aprendizaje con **100 proyectos en Pyth
 ```
 ## 📦 Cómo ejecutar un proyecto
 cd projects/nombre_del_proyecto
+
 python main.py
 
 ## 📃 Licencia
