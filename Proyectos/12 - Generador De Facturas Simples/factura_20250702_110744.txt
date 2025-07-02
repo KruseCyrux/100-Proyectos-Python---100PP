@@ -1,0 +1,11 @@
+
+    🧾 FACTURA SIMPLIFICADA
+    Fecha: 2025-07-02 11:07
+    Cliente: Luis Ramirez
+    Dirección: Lomas Del Prado 221
+    RFC: LRWD100456432
+
+    Productos:
+     - 1 x Vape @ $320.00 = $320.00
+
+TOTAL A PAGAR: $320.00
